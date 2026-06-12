@@ -1,1 +1,1 @@
-- Photograph: ![My Photo](IMG_7346.jpg"# RCOS-Summer2026-Assignment1
+- Photograph: ![My Photo](IMG_7346.jpg)
